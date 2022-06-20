@@ -1,1 +1,2 @@
-# C144-Bye-Bye
+# Blog-App-Stage-2
+Blog app project
